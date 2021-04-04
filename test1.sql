@@ -1,2 +1,2 @@
 select *
-from videos
+from videoss
